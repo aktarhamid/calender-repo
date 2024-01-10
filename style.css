@@ -1,0 +1,17 @@
+.Calender{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    
+    row-gap: 20px;
+    column-gap: 10px;
+}
+.date{
+    background-color: aquamarine;
+    height: 50px;
+    width: 70px;
+    border-radius: 7px;
+    font-size: 1.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
