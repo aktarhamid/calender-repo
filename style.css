@@ -18,3 +18,9 @@
 .time{
     background-color: gray;
 }
+h1{
+    background-color: chartreuse;
+}
+.date:hover{
+    background-color: rgb(150, 149, 240);
+}
